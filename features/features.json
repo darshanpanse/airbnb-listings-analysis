@@ -1,0 +1,66 @@
+{
+    "continuous_features": [
+        "Host Total Listings Count",
+        "Square Feet",
+        "Price",
+        "Weekly Price",
+        "Monthly Price",
+        "Security Deposit",
+        "Cleaning Fee",
+        "Calendar Updated"
+    ],
+    
+    "categorical_features": [
+        "Host Response Time",
+        "Host Verifications",
+        "Property Type",
+        "Room Type",
+        "Bed Type",
+        "Amenities"
+    ],
+        
+    "discrete_features": [
+        "Host Acceptance Rate",
+        "Accommodates",
+        "Bathrooms",
+        "Bedrooms",
+        "Beds",
+        "Guests Included",
+        "Extra People",
+        "Minimum Nights",
+        "Maximum Nights",
+        "Availability 30",
+        "Availability 60",
+        "Availability 90",
+        "Availability 365"
+    ],
+    
+    "textual_features": [
+        "Name",
+        "Summary",
+        "Space",
+        "Description",
+        "Experiences Offered",
+        "Neighbourhood Overview",
+        "Notes",
+        "Transit",
+        "Access",
+        "Interaction",
+        "House Rules",
+        "Host About",
+        "Neighbourhood Cleansed"
+    ],
+        
+    "geo_features": [
+        "Latitude",
+        "Longitude",
+        "Country",
+        "City",
+        "Zipcode",
+        "Market",
+        "State",
+        "Street",
+        "Host Location",
+        "Host Neighbourhood"
+    ]
+}
