@@ -7,19 +7,7 @@
         "Monthly Price",
         "Security Deposit",
         "Cleaning Fee",
-        "Calendar Updated"
-    ],
-    
-    "categorical_features": [
-        "Host Response Time",
-        "Host Verifications",
-        "Property Type",
-        "Room Type",
-        "Bed Type",
-        "Amenities"
-    ],
-        
-    "discrete_features": [
+        "Calendar Updated",
         "Host Acceptance Rate",
         "Accommodates",
         "Bathrooms",
@@ -33,6 +21,15 @@
         "Availability 60",
         "Availability 90",
         "Availability 365"
+    ],
+    
+    "categorical_features": [
+        "Host Response Time",
+        "Host Verifications",
+        "Property Type",
+        "Room Type",
+        "Bed Type",
+        "Amenities"
     ],
     
     "textual_features": [
